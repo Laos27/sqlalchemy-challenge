@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-The codes for this task are located in the repo LAOS27/sqlalchemy-challenge. 
+The codes for this task are located in the repo Laos27/sqlalchemy-challenge inside the Folder SurfsUp 
 The Precipitation Analysis and Station Analysis responses are in the "climate_starter.ipynb".
 
 The Flask application runs with the "app.py" file: 
